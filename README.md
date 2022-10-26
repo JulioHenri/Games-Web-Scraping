@@ -9,3 +9,5 @@ Libs:
 Techniques:
 - html language 
 - automation in WebScraping
+
+<a href="https://github.com/JulioHenri/Games-Web-Scraping/blob/master/Scraping_gamespot_2.ipynb"> Optimized Notebook </a>
